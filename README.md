@@ -13,6 +13,7 @@ The following video demonstrates the working AR Car Showroom application.
 ### Demo
 
 [▶️ Watch the AR Car Showroom Demonstration](./Demo/AR-Car-Showroom-Demo.mp4)
+
 ## Overview
 
 Traditional car showrooms require customers to physically visit a location to view different vehicles. This project explores how Augmented Reality can be used to create a virtual car showroom where users can view 3D vehicle models by simply pointing a camera toward predefined image targets.
