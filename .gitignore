@@ -1,0 +1,36 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Visual Studio / IDE
+.vs/
+.vscode/
+
+# Visual Studio generated files
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+
+# Unity generated metadata/cache
+sysinfo.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Crash reports
+memorycaptures/
+
+# Rider
+.idea/
+
+# Build output
+/[Bb]uild/
+/[Bb]uilds/
