@@ -14,6 +14,19 @@ The following video demonstrates the working AR Car Showroom application.
 
 [▶️ Watch the AR Car Showroom Demonstration](./Demo/AR-Car-Showroom-Demo.mp4)
 
+## System Architecture
+
+The project follows a simple marker-based AR pipeline:
+
+<img width="1536" height="853" alt="carshowroom system architcturw" src="https://github.com/user-attachments/assets/ceb76a6f-656f-49a7-81f2-6fbf0ecfcdcb" />
+
+
+## Working Prototype
+The following screenshot shows the AR car showroom running with the vehicle model tracked over the target image.
+
+<img width="1467" height="724" alt="working prototype 1" src="https://github.com/user-attachments/assets/19cda4e7-d407-4595-ae69-646664633ddd" />
+<img width="1393" height="726" alt="working prototype 2" src="https://github.com/user-attachments/assets/947a5971-4ef4-4bae-8cd0-e89bfdb0aaac" />
+
 ## Overview
 
 Traditional car showrooms require customers to physically visit a location to view different vehicles. This project explores how Augmented Reality can be used to create a virtual car showroom where users can view 3D vehicle models by simply pointing a camera toward predefined image targets.
@@ -59,17 +72,3 @@ The main objectives of this project are:
 | **Unity Camera / ARCamera** | Capturing and tracking the physical environment |
 
 ---
-
-## System Architecture
-
-The project follows a simple marker-based AR pipeline:
-
-<img width="1536" height="853" alt="carshowroom system architcturw" src="https://github.com/user-attachments/assets/ceb76a6f-656f-49a7-81f2-6fbf0ecfcdcb" />
-
-
-## Working Prototype
-The following screenshot shows the AR car showroom running with the vehicle model tracked over the target image.
-
-<img width="1467" height="724" alt="working prototype 1" src="https://github.com/user-attachments/assets/19cda4e7-d407-4595-ae69-646664633ddd" />
-<img width="1393" height="726" alt="working prototype 2" src="https://github.com/user-attachments/assets/947a5971-4ef4-4bae-8cd0-e89bfdb0aaac" />
-
