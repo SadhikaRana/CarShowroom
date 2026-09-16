@@ -34,3 +34,5 @@ memorycaptures/
 # Build output
 /[Bb]uild/
 /[Bb]uilds/
+
+Packages/com.ptc.vuforia.engine-11.4.4.tgz
